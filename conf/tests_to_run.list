@@ -1,0 +1,4 @@
+# List of Tests to Run
+# Note: must be fully qualified class names (include package)
+
+test.BasicSimulation # Basic test simulation to check Gatlin is working. To be removed once we have real tests.
